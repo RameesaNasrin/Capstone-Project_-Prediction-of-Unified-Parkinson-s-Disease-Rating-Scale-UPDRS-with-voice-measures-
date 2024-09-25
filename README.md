@@ -1,4 +1,4 @@
-Capstone-Project_-Prediction-of-Unified-Parkinson-s-Disease-Rating-Scale-UPDRS-with-voice-measures-
+Prediction-of-Unified-Parkinson-s-Disease-Rating-Scale-UPDRS-with-voice-measures-
 
 Problem Definition:
 
